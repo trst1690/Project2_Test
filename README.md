@@ -24,6 +24,7 @@ ________________________________________
 
 
 
+
 PART 2: EXTRACT CONTACTS EXCEL DATA
 ____________________________________
 
@@ -36,6 +37,7 @@ ____________________________________
 * Created new df using appended list, set columns to equal columns, and reordered columns
 
 * Exported new df as csv
+
 
 
 
