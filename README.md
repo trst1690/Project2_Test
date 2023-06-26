@@ -14,7 +14,7 @@ ________________________________________
 
 * Used split function to separate one column into two 
 
-* Created numpy arrays for both columns (column ids), combining with original dfs
+* Created numpy arrays for both columns (column ids), combining original dfs
 
 * Renamed columns, converted columns to float data type and formatted date columns to datetime format
 
