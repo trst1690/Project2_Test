@@ -20,7 +20,7 @@ ________________________________________
 
 * Merged DataFrames, dropping unwanted columns in the process
 
-* Saving new df as csv
+* Saved new df as csv
 
 
 
