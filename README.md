@@ -44,7 +44,7 @@ ____________________________________
 PART 3: CROWDFUNDING DATABASE
 ____________________________________
 
-* set column primary key and foreign key to identify relationships via quickdatabasediagrams.com
+* Set column primary key and foreign key to identify relationships via quickdatabasediagrams.com
 
 * Created a new database in pgAdmin
 
