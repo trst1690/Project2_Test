@@ -23,6 +23,7 @@ ________________________________________
 * Saving new df as csv
 
 
+
 PART 2: EXTRACT CONTACTS EXCEL DATA
 ____________________________________
 
@@ -37,7 +38,9 @@ ____________________________________
 * Exported new df as csv
 
 
+
 PART 3: CROWDFUNDING DATABASE
+____________________________________
 
 * set column primary key and foreign key to identify relationships via quickdatabasediagrams.com
 
@@ -45,6 +48,10 @@ PART 3: CROWDFUNDING DATABASE
 
 * Utilized postgreSQL tools to create table/schemas and import csvs
 
+
+
+
+                                 
 
 
 
